@@ -46,3 +46,11 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
 **RESULTS**
+
+![rtl4](https://github.com/user-attachments/assets/76c9c8ea-487d-4bf0-aa5f-74e41d201ae1)
+
+![wave4](https://github.com/user-attachments/assets/1d8f97dc-3057-4c70-843a-ebd4d636d849)
+
+
+
+
